@@ -24,6 +24,9 @@
 		case '*':
 			result = num1 * num2;
 			break;
+		case '^':
+			result = Math.Pow(num1, num2);
+			break;
 		case '/':
 			if (num2 != 0)
 				result = num1 / num2;
@@ -31,7 +34,7 @@
 				Console.WriteLine("Ошибка! Деление на ноль");
 			break;
 		default:
-			Console.WriteLine("Оперетор указан неверно. Введите +, -, *, или /");
+			Console.WriteLine("Оперетор указан неверно. Введите +, -, *, ^ или /");
 			continue;
 	}
 
