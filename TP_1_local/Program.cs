@@ -2,21 +2,29 @@
 {
 	Console.Write("Введите первое число: ");
 	double num1;
-	double.TryParse(Console.ReadLine(), out num1);
+	if (!double.TryParse(Console.ReadLine(), out num1))
+	{
+		Console.WriteLine("Ошибка! Некорректные данные");
+		continue;
+	}
 
 	Console.Write("Введите оператор (+, -, *, /): ");
 	char operation = Console.ReadLine().Trim()[0];
 
 	Console.Write("Введите второе число: ");
 	double num2;
-	double.TryParse(Console.ReadLine(), out num2);
+	if (!double.TryParse(Console.ReadLine(), out num2))
+	{
+		Console.WriteLine("Ошибка! Некорректные данные");
+		continue;
+	}
 
 	double result = 0;
 
 	switch (operation)
 	{
 		case '+':
-			result = num1 + num2
+			result = num1 + num2;
 			break;
 		case '-':
 			result = num1 - num2;
