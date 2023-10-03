@@ -1,0 +1,15 @@
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\bin\Debug\net6.0\TP_1_local.exe
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\bin\Debug\net6.0\TP_1_local.deps.json
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\bin\Debug\net6.0\TP_1_local.runtimeconfig.json
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\bin\Debug\net6.0\TP_1_local.dll
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\bin\Debug\net6.0\TP_1_local.pdb
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\obj\Debug\net6.0\TP_1_local.csproj.AssemblyReference.cache
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\obj\Debug\net6.0\TP_1_local.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\obj\Debug\net6.0\TP_1_local.AssemblyInfoInputs.cache
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\obj\Debug\net6.0\TP_1_local.AssemblyInfo.cs
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\obj\Debug\net6.0\TP_1_local.csproj.CoreCompileInputs.cache
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\obj\Debug\net6.0\TP_1_local.dll
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\obj\Debug\net6.0\refint\TP_1_local.dll
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\obj\Debug\net6.0\TP_1_local.pdb
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\obj\Debug\net6.0\TP_1_local.genruntimeconfig.cache
+C:\Users\RedMuri\Source\Repos\TP_1\TP_1_local\obj\Debug\net6.0\ref\TP_1_local.dll
